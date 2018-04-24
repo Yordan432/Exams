@@ -1,5 +1,0 @@
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Spaceship\bin\Debug\02.Spaceship.exe.config
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Spaceship\bin\Debug\02.Spaceship.exe
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Spaceship\bin\Debug\02.Spaceship.pdb
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Spaceship\obj\Debug\02.Spaceship.exe
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Spaceship\obj\Debug\02.Spaceship.pdb

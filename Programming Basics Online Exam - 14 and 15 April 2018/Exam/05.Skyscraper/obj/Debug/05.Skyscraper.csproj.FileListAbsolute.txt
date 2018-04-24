@@ -1,6 +1,0 @@
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\bin\Debug\05.Skyscraper.exe.config
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\bin\Debug\05.Skyscraper.exe
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\bin\Debug\05.Skyscraper.pdb
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\obj\Debug\05.Skyscraper.csprojResolveAssemblyReference.cache
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\obj\Debug\05.Skyscraper.exe
-C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\05.Skyscraper\obj\Debug\05.Skyscraper.pdb
