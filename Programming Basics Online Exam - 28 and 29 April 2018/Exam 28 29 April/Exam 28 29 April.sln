@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Programming Book", "01.Programming Book\01.Programming Book.csproj", "{B1B1F62D-6647-4CAB-AA8E-5F9911740017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Sea Trip", "01.Sea Trip\01.Sea Trip.csproj", "{BAAA2269-42F2-4A7F-B3C5-E8A7080A5B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Calorie Calculator", "02. Calorie Calculator\02. Calorie Calculator.csproj", "{C68675E8-E7EA-4FF8-A0E3-0C2AAFFF5D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B1F62D-6647-4CAB-AA8E-5F9911740017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B1F62D-6647-4CAB-AA8E-5F9911740017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B1F62D-6647-4CAB-AA8E-5F9911740017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B1F62D-6647-4CAB-AA8E-5F9911740017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAA2269-42F2-4A7F-B3C5-E8A7080A5B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAA2269-42F2-4A7F-B3C5-E8A7080A5B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAA2269-42F2-4A7F-B3C5-E8A7080A5B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAA2269-42F2-4A7F-B3C5-E8A7080A5B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68675E8-E7EA-4FF8-A0E3-0C2AAFFF5D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68675E8-E7EA-4FF8-A0E3-0C2AAFFF5D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68675E8-E7EA-4FF8-A0E3-0C2AAFFF5D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68675E8-E7EA-4FF8-A0E3-0C2AAFFF5D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
