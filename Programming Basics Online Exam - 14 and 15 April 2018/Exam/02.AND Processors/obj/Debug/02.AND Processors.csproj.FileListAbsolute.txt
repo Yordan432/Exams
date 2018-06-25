@@ -4,3 +4,9 @@ C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 20
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.csprojResolveAssemblyReference.cache
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.exe
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\bin\Debug\02.AND Processors.exe.config
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\bin\Debug\02.AND Processors.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\bin\Debug\02.AND Processors.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.AND Processors\obj\Debug\02.AND Processors.pdb

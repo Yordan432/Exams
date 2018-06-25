@@ -4,3 +4,9 @@ C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 20
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.csprojResolveAssemblyReference.cache
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.exe
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\bin\Debug\03.Aluminium Joinery.exe.config
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\bin\Debug\03.Aluminium Joinery.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\bin\Debug\03.Aluminium Joinery.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Aluminium Joinery\obj\Debug\03.Aluminium Joinery.pdb

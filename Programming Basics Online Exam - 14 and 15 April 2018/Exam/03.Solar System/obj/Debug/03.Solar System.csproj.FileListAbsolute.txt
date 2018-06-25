@@ -4,3 +4,9 @@ C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 20
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.csprojResolveAssemblyReference.cache
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.exe
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\bin\Debug\03.Solar System.exe.config
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\bin\Debug\03.Solar System.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\bin\Debug\03.Solar System.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\03.Solar System\obj\Debug\03.Solar System.pdb

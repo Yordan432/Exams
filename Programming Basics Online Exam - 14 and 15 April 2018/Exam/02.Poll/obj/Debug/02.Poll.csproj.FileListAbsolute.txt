@@ -4,3 +4,9 @@ C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 20
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.exe
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.pdb
 C:\Users\DELL\Documents\Exam\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\bin\Debug\02.Poll.exe.config
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\bin\Debug\02.Poll.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\bin\Debug\02.Poll.pdb
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.exe
+C:\Users\DELL\Documents\Exam\Exams\Programming Basics Online Exam - 14 and 15 April 2018\Exam\02.Poll\obj\Debug\02.Poll.pdb
